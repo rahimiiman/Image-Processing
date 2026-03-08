@@ -1,0 +1,11 @@
+__pycache__/
+/data
+/tags
+/env/
+/runs/
+/logs/
+/r2_logs/
+.rsyncignore
+
+.ipynb_checkpoints/
+*.egg-info/
